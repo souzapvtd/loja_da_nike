@@ -1,4 +1,4 @@
-{
+*{
     margin: 0;
     padding: 0;
 }
@@ -10,14 +10,7 @@ header{
 body{
     background-color: #fcfcfc;
 }
-    {
-
-    
- #primeiraImagem
-    width: 40%;
-    display: block;
-    margin: 0 auto;
-    }
+ 
     
     .principal{
         background-color: #f5f5f5;
